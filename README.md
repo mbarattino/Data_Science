@@ -1,1 +1,2 @@
 # Data_Science
+Data science projects showing analysis in both R and Python. Thy python project utilizes Python to create a machine learning model in Jupyter Notebook. The R_Data_Science project uses R to create models and basic data visualization on the movies database. The DataVisualization_R project uses a movies database to show different visualization and analysis using Base, Lattice, and GGPlot libraries.
